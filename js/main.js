@@ -7,5 +7,6 @@ const swiper = new Swiper('.swiper', {
         delay: 5000,
         disableOnInteraction: false,
     },
-    effect: 'fade'
+    effect: 'fade',
+    loop: true
 });
